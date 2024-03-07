@@ -1,0 +1,36 @@
+.trr{
+width: 30%;
+}
+.tdd{
+    padding-top: 70px;
+}
+
+#enlacestablas{
+    padding-left: 250px;
+    width: 100%;
+
+
+}
+
+table{
+    border-collapse: collapse;
+    color: #000;
+    
+}
+.quitarraya{
+    color: #000;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.aside:hover{
+    background-color: rgba(255, 252, 97, 0.692);
+    list-style:none ;
+    text-decoration: none;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-bottom: 0;
+    
+    
+    
+    }
