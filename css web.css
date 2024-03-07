@@ -1,0 +1,104 @@
+
+.aside{
+list-style:none ;
+text-decoration: none;
+padding-top: 5px;
+padding-bottom: 5px;
+
+}
+.aside:hover{
+background-color: rgba(255, 252, 97, 0.692);
+list-style:none ;
+text-decoration: none;
+padding-top: 2px;
+padding-bottom: 2px;
+margin-bottom: 0;
+
+
+
+}
+
+
+.quitarraya{
+    color: #000;
+    text-decoration: none;
+    padding: 10px;
+}
+
+table{
+    border-collapse: collapse;
+    color: #000;
+}
+
+.cien{
+    width: 100%;
+}
+
+#tablaarticulo{
+padding-left:10px ;
+float: left;
+width: 400px;
+height: 300px;
+background-color: rgba(214, 214, 214, 0.404);
+margin-right: 10px;
+margin-top: 17px;
+word-wrap: break-word;
+
+
+}
+
+#titulo{
+    width: 400px;
+    word-wrap: break-word;
+    font-size: 12px;
+    padding-left: 10px;
+}
+#descripcion{
+    padding-left: 5px;
+    text-align: justify;
+    word-wrap: break-word;
+    
+}
+
+#form{
+    float: right;
+    margin-right: 30px;
+
+}
+
+#img{
+    padding: 10px;
+    width: 200px;
+    height: 150px;
+  
+
+}
+
+
+li{
+    margin-top: 10px;
+    list-style-type: none;
+}
+
+#asideizq{
+    float: left;
+    width: 25%; 
+    
+
+
+}
+
+.pies{
+    width: 100%;
+    height: 200px;
+    left: 0px;
+    bottom: 0px;
+    margin: left 0px;
+    text-align: left;
+    background-color: rgb(179, 177, 187);
+    padding-bottom: 20px;
+
+
+
+
+}
